@@ -1,9 +1,15 @@
 
 # Note Server
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+![Note Server](./public/assets/images/screenshot.JPG)
+
+
+
 ## Description
 
-  Note server is a persistent online app that allows users to wriet and save notes. The backend it built using Node +  Express.js and the server is deployed via Heroku. 
+  Note server is a persistent online app that allows users to wriet and save notes. The backend it built using Node +  Express.js and the server is deployed via Heroku at [https://abrowncownow-note-server.herokuapp.com/](https://abrowncownow-note-server.herokuapp.com/). Find the repo on github at [https://github.com/abrowncownow/note-server](https://github.com/abrowncownow/note-server).
 
 ## Table of Contents
 
@@ -46,7 +52,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Tests
 
-  Navigate to [https://abrowncownow-note-server.herokuapp.com/](https://abrowncownow-note-server.herokuapp.com/).
+  Navigate to [https://abrowncownow-note-server.herokuapp.com/](https://abrowncownow-note-server.herokuapp.com/)
 
 ## Questions
 
